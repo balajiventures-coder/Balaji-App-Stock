@@ -4,7 +4,7 @@
     "description": "Bakery stock report manager",
     "start_url": "/Balaji-App-Stock/",
     "display": "standalone",
-    "orientation": "portrait",
+    "orientation": "any",
     "background_color": "#00695C",
     "theme_color": "#00695C",
     "icons": [
