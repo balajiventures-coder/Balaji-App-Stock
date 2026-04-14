@@ -2,7 +2,7 @@
     "name": "Stock Report",
     "short_name": "Stock",
     "description": "Bakery stock report manager",
-    "start_url": "/",
+    "start_url": "/Balaji-App-Stock/",
     "display": "standalone",
     "orientation": "portrait",
     "background_color": "#00695C",
